@@ -762,10 +762,52 @@
 		)
 	)
 	(junction
+		(at 118.11 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "209ab327-dea0-4500-96db-645c0d0aa12c")
+	)
+	(junction
+		(at 118.11 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2313e69d-1f82-4c2d-93cc-4edc4d8d7f75")
+	)
+	(junction
 		(at 90.17 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "234adefb-e13d-4b99-8ecb-e5c4c8dd974d")
+	)
+	(junction
+		(at 76.2 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cf365af-23d3-4185-8b26-9309603f7881")
+	)
+	(junction
+		(at 121.92 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ff6bef8-f572-4cf9-8938-d906189776b8")
+	)
+	(junction
+		(at 90.17 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ab7c1e8-f1ea-4fb7-a1e1-bc01315ea5e6")
+	)
+	(junction
+		(at 118.11 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4da9481c-5eeb-4446-82b0-cd84728afced")
+	)
+	(junction
+		(at 121.92 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50733067-cc2f-4ff0-b32a-86e448a45baf")
 	)
 	(junction
 		(at 80.01 73.66)
@@ -778,6 +820,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66cd4c50-6623-4017-8d22-63bd65503937")
+	)
+	(junction
+		(at 90.17 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dfb464c-4ec9-41cc-bd0c-c92893310502")
 	)
 	(junction
 		(at 66.04 62.23)
@@ -810,6 +858,12 @@
 		(uuid "8c436c96-e885-4900-9eb3-74b9620d2f57")
 	)
 	(junction
+		(at 104.14 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96755c12-da26-4156-b012-f737ea94e951")
+	)
+	(junction
 		(at 107.95 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -822,10 +876,32 @@
 		(uuid "aa521820-3a6e-4704-b93f-46033d13403e")
 	)
 	(junction
+		(at 104.14 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b369609c-eaf3-4ea6-b694-04d0f1d92765")
+	)
+	(junction
+		(at 76.2 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c34dbb66-ed73-4423-8d10-c32397285a67")
+	)
+	(junction
 		(at 76.2 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9e1469c-65f8-44ba-a836-12c04f15eba4")
+	)
+	(wire
+		(pts
+			(xy 59.69 81.28) (xy 76.2 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05b9e73e-e6f0-49f7-b21f-fe8b3f65c398")
 	)
 	(wire
 		(pts
@@ -836,6 +912,26 @@
 			(type default)
 		)
 		(uuid "06573cd9-fe2f-4bb4-af46-eadcc6f23e1c")
+	)
+	(wire
+		(pts
+			(xy 76.2 92.71) (xy 90.17 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "160dd133-2611-4ee1-9d83-0907331566d7")
+	)
+	(wire
+		(pts
+			(xy 121.92 39.37) (xy 121.92 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17532af1-a415-4da3-ab6a-3701e98c0be0")
 	)
 	(wire
 		(pts
@@ -876,6 +972,46 @@
 			(type default)
 		)
 		(uuid "470b0bbb-10d6-473a-aac9-1930e884089c")
+	)
+	(wire
+		(pts
+			(xy 90.17 81.28) (xy 104.14 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d4197e7-2b09-4c53-81b3-fb03d3ed72b2")
+	)
+	(wire
+		(pts
+			(xy 90.17 92.71) (xy 104.14 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "529f3430-1341-498b-972a-7356b0389b0e")
+	)
+	(wire
+		(pts
+			(xy 59.69 92.71) (xy 76.2 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53d65177-ea2f-453a-9761-be8554104ddd")
+	)
+	(wire
+		(pts
+			(xy 128.27 60.96) (xy 121.92 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aea89e1-824e-4f00-a631-b7201fa7daa9")
 	)
 	(wire
 		(pts
@@ -929,6 +1065,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 69.85) (xy 133.35 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ef100b7-bffc-41c4-b894-e53aff562bc7")
+	)
+	(wire
+		(pts
 			(xy 104.14 69.85) (xy 118.11 69.85)
 		)
 		(stroke
@@ -946,6 +1092,16 @@
 			(type default)
 		)
 		(uuid "a31d1eda-984b-4ab7-a848-1aba3fdf3006")
+	)
+	(wire
+		(pts
+			(xy 118.11 92.71) (xy 132.08 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e87489-d841-40fc-8f45-eee866b69680")
 	)
 	(wire
 		(pts
@@ -969,6 +1125,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 60.96) (xy 133.35 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcd755b2-9b4d-4e80-a42a-d3abd14a140a")
+	)
+	(wire
+		(pts
 			(xy 80.01 62.23) (xy 80.01 73.66)
 		)
 		(stroke
@@ -979,6 +1145,46 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 73.66) (xy 121.92 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3f29588-c68d-455c-a8f0-280371ed6a0b")
+	)
+	(wire
+		(pts
+			(xy 76.2 81.28) (xy 90.17 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3dcd5fa-c46a-4a3e-a11d-a5c085a3b20a")
+	)
+	(wire
+		(pts
+			(xy 104.14 92.71) (xy 118.11 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9f3bc0b-26d5-46bc-b487-88d06a87f616")
+	)
+	(wire
+		(pts
+			(xy 104.14 81.28) (xy 118.11 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eef73a56-d091-4840-9274-53614b60bb15")
+	)
+	(wire
+		(pts
 			(xy 59.69 69.85) (xy 76.2 69.85)
 		)
 		(stroke
@@ -986,6 +1192,106 @@
 			(type default)
 		)
 		(uuid "f4c7760b-4325-4342-b1b1-da4d851604a4")
+	)
+	(wire
+		(pts
+			(xy 118.11 81.28) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f62d5d73-0fa3-4689-921a-9fb6cc9ce9d1")
+	)
+	(wire
+		(pts
+			(xy 121.92 60.96) (xy 121.92 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffb83ff0-77f3-4149-b216-478684fea50f")
+	)
+	(label "COL3"
+		(at 107.95 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a161936-d621-4ff2-8ff2-88d32f3f7f7a")
+	)
+	(label "COL1"
+		(at 80.01 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9869b010-8dc0-4281-9c5b-b6d7bb6731be")
+	)
+	(label "ROW1"
+		(at 59.69 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9fa3acdb-e0f8-40a7-a721-570284e3c6df")
+	)
+	(label "COL0"
+		(at 66.04 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6e706fc-ae85-4314-9b63-21f7efecac6c")
+	)
+	(label "COL4"
+		(at 121.92 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a829d306-ff0a-4069-b09c-4f0ad9ed2796")
+	)
+	(label "ROW0"
+		(at 59.69 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac40423a-ba3e-4c6f-880b-8b98b7ea2c83")
+	)
+	(label "COL2"
+		(at 93.98 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb0018cf-7bfc-4ffd-bdfb-b2d5349373e6")
+	)
+	(label "ROW2"
+		(at 59.69 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "beaa3021-7b05-4db3-ad84-c760f124c3db")
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
@@ -999,7 +1305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00c28519-b605-497e-a18c-dcd9fe38e0e0")
-		(property "Reference" "SW4"
+		(property "Reference" "SW6"
 			(at 71.12 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1019,7 +1325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 71.12 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -1061,7 +1367,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW4")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -1079,7 +1385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b8165f8-e7b1-43eb-9b95-d9713f3fc35c")
-		(property "Reference" "SW7"
+		(property "Reference" "SW11"
 			(at 71.12 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1099,7 +1405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 71.12 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1141,7 +1447,87 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW7")
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 127 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "155e38aa-8e57-480c-9d29-4e9603480c9f")
+		(property "Reference" "SW15"
+			(at 127 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 127 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
+			(at 127 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 127 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "225f1a4a-705a-451a-9843-0914a063ad6c")
+		)
+		(pin "2"
+			(uuid "068e2b8c-2f5c-4820-8bde-59a5b1646254")
+		)
+		(instances
+			(project "hackpad"
+				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -1159,7 +1545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d70f2b5-f7d4-4f18-b657-6faf67cf4d5b")
-		(property "Reference" "SW13"
+		(property "Reference" "SW1"
 			(at 137.16 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1181,7 +1567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 134.874 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -1232,7 +1618,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW13")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -1250,7 +1636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35312096-1955-4551-8b43-56be48a211ae")
-		(property "Reference" "SW12"
+		(property "Reference" "SW14"
 			(at 113.03 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1270,7 +1656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 113.03 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1312,7 +1698,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW12")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -1423,6 +1809,190 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 127 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36d1d313-8922-4af6-9971-115235471c99")
+		(property "Reference" "SW10"
+			(at 127 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 127 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
+			(at 127 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 127 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eee814a7-7761-4089-a5cc-dd8807c78f51")
+		)
+		(pin "2"
+			(uuid "8acd767d-dc43-4d55-9660-fa08e82e721a")
+		)
+		(instances
+			(project "hackpad"
+				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 132.08 88.9 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f911139-7161-47db-956c-ef426afc8a9d")
+		(property "Reference" "D14"
+			(at 134.62 87.6299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 134.62 90.1699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 132.08 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 132.08 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 132.08 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6d9c7c48-c272-4ca6-9fb5-9dc53397f2a5")
+		)
+		(pin "1"
+			(uuid "cbf9eb18-ac5e-4bcc-b3b6-32a20672e104")
+		)
+		(instances
+			(project "hackpad"
+				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 118.11 88.9 90)
 		(unit 1)
@@ -1434,7 +2004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40d185e0-d3b1-48e2-b296-058080055b10")
-		(property "Reference" "D12"
+		(property "Reference" "D13"
 			(at 120.65 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1520,7 +2090,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D12")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -1538,7 +2108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56e82843-3f0f-4ed9-ae25-3f143887808a")
-		(property "Reference" "SW5"
+		(property "Reference" "SW7"
 			(at 85.09 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1558,7 +2128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 85.09 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -1600,7 +2170,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW5")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -1618,7 +2188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "618cc124-6c29-46f9-9557-78d9345718c3")
-		(property "Reference" "SW1"
+		(property "Reference" "SW2"
 			(at 71.12 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1638,7 +2208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 71.12 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1680,7 +2250,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW1")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -1698,7 +2268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d420ae5-0d4e-419e-93d3-9b32d7b346cc")
-		(property "Reference" "SW6"
+		(property "Reference" "SW8"
 			(at 99.06 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1718,7 +2288,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 99.06 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -1760,7 +2330,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW6")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -1778,7 +2348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77c81c04-27d7-4edb-8203-372efd7d7dcc")
-		(property "Reference" "D11"
+		(property "Reference" "D8"
 			(at 120.65 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1864,7 +2434,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D11")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -1882,7 +2452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77d47acc-9767-42c0-bd6b-da357b6e717a")
-		(property "Reference" "SW3"
+		(property "Reference" "SW4"
 			(at 99.06 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1902,7 +2472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 99.06 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1944,7 +2514,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW3")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -1962,7 +2532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d264f28-6e68-4f50-846a-839e8087f562")
-		(property "Reference" "SW2"
+		(property "Reference" "SW3"
 			(at 85.09 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1982,7 +2552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 85.09 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2024,7 +2594,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW2")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -2042,7 +2612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80337788-28da-4b71-a77b-85cad3173159")
-		(property "Reference" "SW8"
+		(property "Reference" "SW12"
 			(at 85.09 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2062,7 +2632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 85.09 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2104,7 +2674,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW8")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -2122,7 +2692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87c09c8c-12bc-45df-968a-32df6227d4f4")
-		(property "Reference" "SW11"
+		(property "Reference" "SW9"
 			(at 113.03 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2142,7 +2712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 113.03 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -2184,7 +2754,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW11")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -2202,7 +2772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91d91499-5e03-4831-bfec-66a5563695c0")
-		(property "Reference" "D6"
+		(property "Reference" "D7"
 			(at 106.68 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2288,7 +2858,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D6")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -2306,7 +2876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96e8e22f-4038-48ac-a4dc-1840042a6178")
-		(property "Reference" "D10"
+		(property "Reference" "D4"
 			(at 120.65 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2392,7 +2962,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D10")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2410,7 +2980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a00a8dcb-3fdd-4cd1-836a-aa6085679488")
-		(property "Reference" "D7"
+		(property "Reference" "D10"
 			(at 78.74 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2496,7 +3066,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D7")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -2618,7 +3188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6529b09-a07c-4e05-9e56-817c1dafb168")
-		(property "Reference" "D8"
+		(property "Reference" "D11"
 			(at 92.71 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2704,7 +3274,111 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D8")
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 132.08 77.47 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d417d7b0-3b86-4312-ac57-e7ff2112a646")
+		(property "Reference" "D9"
+			(at 134.62 76.1999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 134.62 78.7399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0f3cdefb-1cd6-493e-baf8-6eacd6252df5")
+		)
+		(pin "1"
+			(uuid "7b07edac-4987-41db-805c-27e7057b6d9e")
+		)
+		(instances
+			(project "hackpad"
+				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -2722,7 +3396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d58b3ae3-4f13-4529-a3f3-4735b77ca870")
-		(property "Reference" "D9"
+		(property "Reference" "D12"
 			(at 106.68 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2808,7 +3482,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D9")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -2826,7 +3500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5c7c2ba-3050-44b3-9a20-90b907e487c3")
-		(property "Reference" "SW9"
+		(property "Reference" "SW13"
 			(at 99.06 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2846,7 +3520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2888,7 +3562,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW9")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -3010,7 +3684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8b43740-7097-4924-afef-a119e0aca09a")
-		(property "Reference" "D5"
+		(property "Reference" "D6"
 			(at 92.71 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3096,7 +3770,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D5")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3114,7 +3788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebd29d48-1fd9-4bb3-bad7-ef368191983a")
-		(property "Reference" "SW10"
+		(property "Reference" "SW5"
 			(at 113.03 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3134,7 +3808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-various:SW_Push_1P1T-NO_Horizontal_C&K_NANOT_240_BP"
 			(at 113.03 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -3176,7 +3850,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "SW10")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -3194,7 +3868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f42b672f-815a-46bc-825d-08c213bf8509")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 78.74 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3280,7 +3954,7 @@
 		(instances
 			(project "hackpad"
 				(path "/32e5c986-1dbf-4c0b-821a-b9191af1873f"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
