@@ -21,3 +21,20 @@ PCB and case:
 <img width="674" height="446" alt="Screenshot 2026-09-23 115149" src="https://github.com/user-attachments/assets/a1090ac5-6ade-42f8-90aa-8bc218a5d5ec" />
 
 If u want to check my onshape here it is (sorry if its really messy): https://cad.onshape.com/documents/7955f6143054f35a25e47023/w/3cc283572c9fd03e1a13d1ab/e/2172772127661373bbc4b207 
+
+## Firmware
+
+I made the firmware with KMK firmware thingy. 
+
+So i just coded it instead of using the QMK config.
+
+
+## BOM
+here is what u need to make my amazing hackpad
+- 15x Cherry MX Switches
+- 15x DSA Keycaps
+- 16x 1N4148 DO-35 Diodes.
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case
+- 
